@@ -11,5 +11,18 @@
 -  5HTML elements: `<h2>`, `<div>`, `<img>`, `<a>`, `<p>`
 -Form element: <input class="BaseInput_pintxo-base-input__input__UbR_4 pintxo-typography-body1" data-rtl="false" type="search" placeholder="Search" aria-invalid="false" value="">
 ![Elements Panel Screenshot](image/elements-panel.png)
+# DevTools Exploration
+
+## Task 1: Inspecting Elements
+I inspected the `<h1>` element and saw its styles in the Elements panel.
+
+## Task 2: Console
+I typed `2 + 2` in the console and got `4`.
+
+## Task 3: Network Tab
+I refreshed the page and saw `index.html` and `style.css` loaded successfully.
+
+![Elements Panel Screenshot](image/elements-panel.png)
+
 
 
