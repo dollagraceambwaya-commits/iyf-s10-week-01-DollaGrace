@@ -14,3 +14,6 @@ I installed the required VS Code extensions for this assignment.
 ## Live Server Verification
 I previewed my `index.html` using the Live Server extension to confirm everything works.
 
+# Live Demo 
+[View Live Demo](http://127.0.0.1:5500/iyf-s10-week-01-DollaGrace/about.html)
+
